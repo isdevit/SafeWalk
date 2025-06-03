@@ -22,9 +22,11 @@
 
 ## 🖼️ Screenshots
 
-| Auth Screen | Dashboard |
-|------------|-----------|----------|
-| ![Auth](screenshots/login.jpeg) | ![Dashboard](screenshots/main.jpeg) |
+<h3>Authentication Screen</h3>
+<img src="screenshots/login.jpeg" alt="Authentication" width="400"/>
+
+<h3>Dashboard Screen</h3>
+<img src="screenshots/main.jpeg" alt="Authentication" width="400"/>
 
 ---
 
