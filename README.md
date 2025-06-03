@@ -24,7 +24,7 @@
 
 | Auth Screen | Dashboard |
 |------------|-----------|----------|
-| ![Auth](screenshots/login.png) | ![Dashboard](screenshots/main.png) |
+| ![Auth](screenshots/login.jpeg) | ![Dashboard](screenshots/main.jpeg) |
 
 ---
 
